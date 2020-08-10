@@ -1,5 +1,5 @@
 # 💻Minha lista de repositórios
-Aqui pretendo organizar todos os meus repositórios para encontrar facilmente meus trabalhos para quem quiser vê-los.
+Aqui pretendo organizar todos os meus repositórios para encontrar facilmente meus trabalhos e para quem quiser vê-los.
 
 🚀
 
